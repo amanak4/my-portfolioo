@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Dp from "../assets/dp.jpeg"
+import Dp from "../assets/dp.jpg"
 import { MdOutlineArrowRightAlt } from 'react-icons/md'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -28,7 +28,7 @@ const Home = () => {
         type: 'spring',
         stiffness: 150,
         duration: 0.5
-      }} className='text-4xl sm:text-6xl font-bold text-white'>Subham Dey | <span data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000" className='animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>Full-Stack Developer</span></motion.h2>
+      }} className='text-4xl sm:text-6xl font-bold text-white'>Aman Kasaudhan | <span data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000" className='animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>Full-Stack Developer</span></motion.h2>
                             <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md w-full'>
                                 I'm a B.Tech 3rd year student of Indian Institute of Technology (Indian School of Mines), Dhanbad. With expertise in Data Structures and Algorithms (DSA), Development in ReactJs, NodeJs, MongoDB, Postgres & much more. As a dynamic and forward-thinking programmer, I'm committed to staying up to date with the latest trends and technologies in the field.
                             </p>
@@ -43,26 +43,26 @@ const Home = () => {
                                 <MdOutlineArrowRightAlt size={25} />
                             </span>
                         </Link>
-                        <a target='_blank' rel="noreferrer"  href="mailto:deysubham3312@gmail.com" smooth duration={500} data-aos="fade-up" data-aos-delay="1000" data-aos-duration="2500" className='group hover:scale-105 rounded w-auto h-8 p-3 flex items-center bg-gradient-to-r from-indigo-600 via-purple-600 to-orange-600 justify-center cursor-pointer mt-5 mb-28' >
+                        <a target='_blank' rel="noreferrer"  href="mailto:amankasaudhanak07@gmail.com" smooth duration={500} data-aos="fade-up" data-aos-delay="1000" data-aos-duration="2500" className='group hover:scale-105 rounded w-auto h-8 p-3 flex items-center bg-gradient-to-r from-indigo-600 via-purple-600 to-orange-600 justify-center cursor-pointer mt-5 mb-28' >
 
                             <span className='pr-2'>
                                 <HiOutlineMail size={25} />
                             </span>
                             Hire Me
                         </a>
-                        <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/subham-dey-269096253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" smooth duration={550} data-aos="fade-up" data-aos-delay="2000" data-aos-duration="3000" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
+                        <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/aman-kasaudhan-005b0a251/" smooth duration={550} data-aos="fade-up" data-aos-delay="2000" data-aos-duration="3000" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
 
                             <span >
                             <BsLinkedin size={25}></BsLinkedin>
                             </span>
                         </a>
-                        <a target='_blank' rel="noreferrer" href="https://github.com/Subham170" smooth duration={600} data-aos="fade-up" data-aos-delay="3000" data-aos-duration="3500" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
+                        <a target='_blank' rel="noreferrer" href="https://github.com/amanak4" smooth duration={600} data-aos="fade-up" data-aos-delay="3000" data-aos-duration="3500" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
 
                             <span >
                             <BsGithub size={25}></BsGithub>
                             </span>
                         </a>
-                        <a target='_blank' rel="noreferrer" href="https://www.instagram.com/subhamdey610/?next=%2F&hl=en" smooth duration={650} data-aos="fade-up" data-aos-delay="2500" data-aos-duration="2000" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
+                        <a target='_blank' rel="noreferrer" href="https://www.instagram.com/amanak_07/?next=%2F&hl=en" smooth duration={650} data-aos="fade-up" data-aos-delay="2500" data-aos-duration="2000" className='group hover:scale-105 rounded w-auto h-8 px-1 flex items-center bg-none justify-center cursor-pointer mt-5 mb-28' >
 
                             <span >
                             <BsInstagram size={25}></BsInstagram>
