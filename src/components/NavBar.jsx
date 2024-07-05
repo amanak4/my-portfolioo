@@ -31,7 +31,7 @@ const NavBar = () => {
     return (
         <div className='flex justify-between items-center w-full h-20 px-4 text-white bg-gradient-to-b from-gray-800 to-black'>
             <div data-aos="fade-down" data-aos-duration="500"  className='flex flex-row gap-1'>
-                <h3 className='text-4xl font-itim ml-4'>Subham Dey</h3>
+                <h3 className='text-4xl font-itim ml-4'>Aman Kasaudhan</h3>
             </div>
 
             <ul data-aos="fade-down" data-aos-duration="500"  className='hidden md:flex'>
