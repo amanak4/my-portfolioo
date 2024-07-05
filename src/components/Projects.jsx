@@ -7,7 +7,7 @@ import Proj3 from '../assets/projects/shopeasy.png'
 import proj4 from '../assets/projects/proj4.png'
 
 import {motion, spring} from 'framer-motion';
-import proj5 from '../assets/projects/place.jpg'
+import proj5 from '../assets/projects/jobportal.jpg'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -22,35 +22,35 @@ const Projects = () => {
       src: proj1,
       desc: "IntelliDoc is a Diagnostic App made using ReactJS + Tailwind CSS + ExpressJS + ML models...",
       demo: "https://intelli-doc-frontend-sand.vercel.app/",
-      code: "https://github.com/Subham170/IntelliDoc"
+      code: "https://github.com/amanak4/Intelli_Doc"
     },
     {
       id: 2,
       src: proj2,
       desc: "EHR is a Electronic Health Record App made using ReactJS + ExpressJS + MongoDB...",
       demo: "https://ehr-1-gk0j.onrender.com/",
-      code: "https://github.com/Subham170/EHR2.0"
+      code: "https://github.com/amanak4/EHR"
     },
     {
       id: 3,
       src: Proj3,
       desc: "This Full-Stack ShopEasy e-commerce website is made using ReactJS, ExpressJS, Stripe...",
       demo: "https://product-catalog-ashen.vercel.app/",
-      code: "https://github.com/Subham170/ShopEasy"
+      code: "https://github.com/amanak4/ShopEasy"
     },
     {
       id: 4,
       src: proj4,
       desc: "It is a react-quiz application made using ReactJS...",
       demo: "https://65c769baa4e7cf5eb856c7aa--lovely-cheesecake-dfb885.netlify.app/",
-      code: "https://github.com/Subham170/react-quiz"
+      code: "https://github.com/amanak4/react-quiz-app"
     },
     {
       id: 5,
       src: proj5,
-      desc: "It is a place-finder application which shows the list of various cities across the globe made using REST API...",
-      demo: "https://github.com/Subham170/Place-lists",
-      code: "https://github.com/Subham170/Place-lists"
+      desc: "It is a job seeker application which shows the list of various jobs post by employers using ReactJS, ExpressJS, MongoDB,...",
+      demo: "https://job-portal-x.vercel.app/",
+      code: "https://github.com/amanak4/JobPortalX"
     },
     {
       id: 6,
