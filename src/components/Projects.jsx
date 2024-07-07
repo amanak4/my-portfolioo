@@ -7,7 +7,7 @@ import Proj3 from '../assets/projects/shopeasy.png'
 import proj4 from '../assets/projects/proj4.png'
 
 import {motion, spring} from 'framer-motion';
-import proj5 from '../assets/projects/jobportal.jpg'
+import proj5 from '../assets/projects/jobportal.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
