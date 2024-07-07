@@ -3,7 +3,7 @@ import { AiOutlineCloudDownload } from 'react-icons/ai'
 import '../App.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import Resume from '../assets/Resume.pdf';
+import Resume from '../assets/IIT_Dhanbad___Resume__OnCampus___2_.pdf';
 import {motion} from "framer-motion";
 const About = () => {
     useEffect(() => {
